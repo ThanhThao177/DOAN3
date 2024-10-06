@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_Qpass</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0c0d46b5-4276-42c2-b915-e99c8306d755</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>70f0ce3b-e9a0-4c0b-8f9e-c40a8a521db5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c485c211-fb4c-4de5-a68a-dd44e94c09c0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>70f0ce3b-e9a0-4c0b-8f9e-c40a8a521db5</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c485c211-fb4c-4de5-a68a-dd44e94c09c0</id>
+      <masked>false</masked>
+      <name>Result</name>
+   </variable>
+</TestCaseEntity>

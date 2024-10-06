@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_SkinStore</name>
+   <tag></tag>
+   <elementGuidId>69644e51-b49c-437c-b1cc-6debfb876201</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;SkinStore&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'SkinStore')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fd741bf1-6512-4a3f-9b78-27088b9dce76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/skinstore</value>
+      <webElementGuid>5c49f620-3307-4b70-b20f-44b2e1eb6eaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>SkinStore</value>
+      <webElementGuid>d36a2a31-675e-472b-9ffd-560adc510ee7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+SkinStore
+</value>
+      <webElementGuid>e7e3fa54-97a9-4eca-ad45-93ff140c837b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;homepage-2&quot;]/header[@class=&quot;header-3&quot;]/div[@class=&quot;header-wrap container&quot;]/div[@class=&quot;header-mid&quot;]/nav[@class=&quot;navbar-nav&quot;]/ul[@class=&quot;main-menu&quot;]/li[@class=&quot;has-mega-menu  show-mega&quot;]/a[1]</value>
+      <webElementGuid>b54513c1-bfab-4048-843f-c7a6cc9d8275</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'SkinStore')]</value>
+      <webElementGuid>bfaf5ccb-d53b-4740-adf1-6fdef108129a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Về chúng tôi'])[1]/following::a[3]</value>
+      <webElementGuid>64d7a3dc-b6fe-4513-9121-79f1f4633b6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chăm Sóc Làn Da'])[1]/preceding::a[1]</value>
+      <webElementGuid>3d76ce7d-c3e2-4e43-ade4-67cbc9dc16a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Làm Sạch (33)'])[1]/preceding::a[2]</value>
+      <webElementGuid>caf379b8-c2bc-4647-8a0f-0882fff4f162</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SkinStore']/parent::*</value>
+      <webElementGuid>f7844d92-8270-4324-bdcc-b3203dfe1edc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/skinstore')]</value>
+      <webElementGuid>72e4efba-8888-4fa0-863a-15a136a59d46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/ul/li/a</value>
+      <webElementGuid>28b1a4f8-c52c-4281-8024-ca1637a2b387</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/skinstore' and @title = 'SkinStore' and (text() = '
+SkinStore
+' or . = '
+SkinStore
+')]</value>
+      <webElementGuid>e7a93b15-c7d0-4ce9-b748-59a513ab3896</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_</name>
+   <tag></tag>
+   <elementGuidId>faa97649-4fc3-4d4f-a2e1-b97a521d7143</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.btn-spin.btn-inc.btn-increase-quantity</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cart-step1']/div[2]/div[2]/div[2]/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2ee37c88-2ef5-4536-a598-8fb39d448002</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-spin btn-inc btn-increase-quantity</value>
+      <webElementGuid>eeb212d4-cebf-4b15-974c-548cae9b9395</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>+</value>
+      <webElementGuid>425ce875-f1ee-45df-a0b4-7b0991a71404</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cart-step1&quot;)/div[@class=&quot;cart-table&quot;]/div[@class=&quot;account-product-item ga-cart-object&quot;]/div[@class=&quot;caption caption-flex&quot;]/div[@class=&quot;caption-left&quot;]/div[@class=&quot;amount&quot;]/div[@class=&quot;input-number product-quantity-button&quot;]/div[@class=&quot;btn-spin btn-inc btn-increase-quantity&quot;]</value>
+      <webElementGuid>76c87e01-7ba1-4fab-853f-e94a7ddbadd7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cart-step1']/div[2]/div[2]/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>d94079ef-ba66-4f87-9267-89b55efb1a73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/following::div[1]</value>
+      <webElementGuid>73c49c97-3de7-4797-9b6e-9a59409c2067</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Máy Rửa Mặt Emmié Premium Facial Cleansing Brush - Đạt Chứng Nhận FDA - Sky Blue'])[2]/following::div[4]</value>
+      <webElementGuid>9666de0e-983d-4de6-b058-6c369c8011b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Có'])[1]/preceding::div[3]</value>
+      <webElementGuid>459fdba9-8b16-409a-98ea-d2cf50119781</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='không'])[1]/preceding::div[3]</value>
+      <webElementGuid>0b23417f-0066-481c-b3ca-e5e12b941c0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='+']/parent::*</value>
+      <webElementGuid>0866001a-bd08-4262-ad76-f2e1e1202813</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>8e5bff3d-b20a-4b72-bfde-df5cfe4ef106</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '+' or . = '+')]</value>
+      <webElementGuid>83e3f0a4-94fc-4689-ad1c-8c9090cacba7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nước Tẩy Trang Dành Cho Da Nhạy Cảm Bioderma Sensibio H2O 100ml'])[2]/following::div[4]</value>
+      <webElementGuid>551fc845-4b3e-43c2-8014-412ac2ccdf6b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i__hs-trash</name>
+   <tag></tag>
+   <elementGuidId>2590f738-f7d3-4cb8-832d-fd039815224f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.hs-trash</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body/main/section[@class='cart-section section-bottom']/div[@class='container']/form[@id='checkout-delivery-address']/div[@class='row -mt-8']/div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>aa1dc3f7-a537-4ff5-b50f-1fcc2cc7166b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hs-trash</value>
+      <webElementGuid>5e4706c2-5f75-4bd3-894f-bd4e3bd6d328</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cart-step1&quot;)/div[@class=&quot;cart-table&quot;]/div[@class=&quot;account-product-item ga-cart-object&quot;]/div[@class=&quot;caption caption-flex&quot;]/a[@class=&quot;btn-remove btn-remove-cart&quot;]/i[@class=&quot;hs-trash&quot;]</value>
+      <webElementGuid>d9da6d66-6f59-43ea-bf10-9eefb04ed473</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cart-step1']/div[2]/div[2]/div[2]/a/i</value>
+      <webElementGuid>520710a0-e508-409e-b8bc-860e8af91e30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/i</value>
+      <webElementGuid>6bd52039-3068-45bc-84ac-992cec717be8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

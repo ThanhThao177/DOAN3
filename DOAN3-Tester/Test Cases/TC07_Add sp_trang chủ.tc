@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC07_Add sp_trang chủ</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7b9a5da3-aff6-40b7-85ab-9e9abf590a95</testCaseGuid>
+</TestCaseEntity>

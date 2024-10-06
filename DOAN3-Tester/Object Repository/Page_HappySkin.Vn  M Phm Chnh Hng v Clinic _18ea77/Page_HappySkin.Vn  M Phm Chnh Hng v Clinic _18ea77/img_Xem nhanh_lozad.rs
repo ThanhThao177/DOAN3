@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Xem nhanh_lozad</name>
+   <tag></tag>
+   <elementGuidId>80967595-fae3-4b4d-ad13-908b3a4cc155</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//img[@alt='Tinh Chất Làm Mờ Đốm Nâu, Thâm Nám Emmié Duo C + Arbutin 25.5% Serum 30ml'])[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>84301a6d-1f68-41c0-9692-aafe7c48a193</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lozad</value>
+      <webElementGuid>b84d8a9b-e4c1-4abe-9dde-42333b910d4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://cdn.happyskin.vn/media/26/tinh-chat-lam-mo-dom-nau-tham-nam-emmie-duo-c-arbutin-255-serum-30ml.jpg</value>
+      <webElementGuid>26ba2cfd-c64f-40dc-abcf-9ab5d1aab0c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-src</name>
+      <type>Main</type>
+      <value>https://cdn.happyskin.vn/media/26/tinh-chat-lam-mo-dom-nau-tham-nam-emmie-duo-c-arbutin-255-serum-30ml.jpg</value>
+      <webElementGuid>54faa6ce-c577-4605-89e2-febda68bd938</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Tinh Chất Làm Mờ Đốm Nâu, Thâm Nám Emmié Duo C + Arbutin 25.5% Serum 30ml</value>
+      <webElementGuid>c92ad31f-465f-47c6-907e-d094341f3719</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-loaded</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>5db18296-3cb3-4405-9765-223616fa65fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;homepage-2 scrolling-down&quot;]/main[1]/section[@class=&quot;home-collection&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;box-product-shadow&quot;]/div[@class=&quot;desktop-only ga-container&quot;]/div[@class=&quot;product-list&quot;]/div[@class=&quot;row -mt-7.5&quot;]/div[@class=&quot;col mt-7.5 md:w-1/5 lg:w-1/5 xl:w-1/5 2xl:w-1/5&quot;]/div[@class=&quot;product-item&quot;]/div[@class=&quot;product-image ga-object&quot;]/a[@class=&quot;img-scale ga-item&quot;]/img[@class=&quot;lozad&quot;]</value>
+      <webElementGuid>68516fd8-6b93-41ae-b10a-808463ca8046</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Tinh Chất Làm Mờ Đốm Nâu, Thâm Nám Emmié Duo C + Arbutin 25.5% Serum 30ml'])[5]</value>
+      <webElementGuid>c9aefe9a-dadd-4df6-8e02-bb980a1a497b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[7]/div/div/a/img</value>
+      <webElementGuid>9ac00131-e83b-4a00-a4cf-8b6e75600d13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://cdn.happyskin.vn/media/26/tinh-chat-lam-mo-dom-nau-tham-nam-emmie-duo-c-arbutin-255-serum-30ml.jpg' and @alt = 'Tinh Chất Làm Mờ Đốm Nâu, Thâm Nám Emmié Duo C + Arbutin 25.5% Serum 30ml']</value>
+      <webElementGuid>e05f6ab1-e6df-4472-9b16-4db2f4152fd9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

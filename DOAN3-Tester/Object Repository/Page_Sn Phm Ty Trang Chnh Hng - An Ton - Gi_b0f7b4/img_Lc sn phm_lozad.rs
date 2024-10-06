@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Lc sn phm_lozad</name>
+   <tag></tag>
+   <elementGuidId>813f55dd-9980-4349-969f-21246aea635c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.img-scale.product-item-491.ga-item > img.lozad</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Nước Tẩy Trang Dành Cho Da Nhạy Cảm Bioderma Sensibio H2O 100ml']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>dc25d6ed-fb42-4772-9b1e-9c3eb11bf68a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lozad</value>
+      <webElementGuid>de18f509-41b7-46d3-b64d-27109bf973ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://cdn.happyskin.vn/media/40/nuoc-tay-trang-danh-cho-da-nhay-cam-bioderma-sensibio-h2o-100ml.jpg</value>
+      <webElementGuid>ed1decdd-9c2f-4db7-b990-aa372ad195bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-src</name>
+      <type>Main</type>
+      <value>https://cdn.happyskin.vn/media/40/nuoc-tay-trang-danh-cho-da-nhay-cam-bioderma-sensibio-h2o-100ml.jpg</value>
+      <webElementGuid>69f15df5-76c5-4a87-8756-314a83617883</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Nước Tẩy Trang Dành Cho Da Nhạy Cảm Bioderma Sensibio H2O 100ml</value>
+      <webElementGuid>e51e28e6-660a-43a8-9f2f-1215d00f983a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-loaded</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>93243036-c102-4fb7-85fb-82634ac32a87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;scrolling-down&quot;]/main[1]/section[@class=&quot;product-list-section section&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;product-list ga-container&quot;]/div[@class=&quot;row -mt-6&quot;]/div[@class=&quot;col mt-6 w-1/2 sm:w-1/3 md:w-1/5 lg:w-1/5 xl:w-1/5&quot;]/div[@class=&quot;product-square-item&quot;]/div[@class=&quot;product-image ga-object&quot;]/a[@class=&quot;img-scale product-item-491 ga-item&quot;]/img[@class=&quot;lozad&quot;]</value>
+      <webElementGuid>fcd3f1fa-2f56-4668-b15d-c4baaa588761</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Nước Tẩy Trang Dành Cho Da Nhạy Cảm Bioderma Sensibio H2O 100ml']</value>
+      <webElementGuid>11301838-e42d-486a-80e7-c1580f4a02e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/a/img</value>
+      <webElementGuid>a8f971d6-1b92-487e-a64e-feefd1191998</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://cdn.happyskin.vn/media/40/nuoc-tay-trang-danh-cho-da-nhay-cam-bioderma-sensibio-h2o-100ml.jpg' and @alt = 'Nước Tẩy Trang Dành Cho Da Nhạy Cảm Bioderma Sensibio H2O 100ml']</value>
+      <webElementGuid>e70d1ddb-9b26-4493-ae0a-c0c383472fb8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

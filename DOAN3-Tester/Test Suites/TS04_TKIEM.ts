@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS04_TKIEM</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>01c8171a-af0c-4619-8663-9dca99df44e8</testSuiteGuid>
+   <testCaseLink>
+      <guid>19332680-a8e5-4c3d-a524-010a1a122efe</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC04_TKiem</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>ed0f8d01-8fd2-48d5-aa0e-f194a7951d6f</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TC04_TIMKIEM</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>ed0f8d01-8fd2-48d5-aa0e-f194a7951d6f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Timkiem</value>
+         <variableId>3038c114-059f-4370-95c5-0b09f6238ce6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ed0f8d01-8fd2-48d5-aa0e-f194a7951d6f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Result</value>
+         <variableId>bc3c05b3-c81d-46b1-8dfa-6e788254c82d</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

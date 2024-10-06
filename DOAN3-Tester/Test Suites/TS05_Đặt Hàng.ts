@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS05_Đặt Hàng</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>59de6df8-5976-4552-abca-ee9791ccf68f</testSuiteGuid>
+   <testCaseLink>
+      <guid>8852c326-bb2e-4e94-8067-11863a954a77</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC13_ĐẶT HÀNG</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>a3bbd4ee-f003-42f9-bee9-b6306ca54181</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DT05_Đặt hàng</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>a3bbd4ee-f003-42f9-bee9-b6306ca54181</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>tên</value>
+         <variableId>37609985-563f-4770-a927-0430c7cabd86</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a3bbd4ee-f003-42f9-bee9-b6306ca54181</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>sdt</value>
+         <variableId>954a8fbd-1814-4b86-a920-288a395133d3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a3bbd4ee-f003-42f9-bee9-b6306ca54181</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Dc</value>
+         <variableId>8b1b845e-c920-4c7e-8bb0-6812bd28a2b9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a3bbd4ee-f003-42f9-bee9-b6306ca54181</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>4d565a6d-36a0-45d8-9ee0-3b5a131d3581</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a3bbd4ee-f003-42f9-bee9-b6306ca54181</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>result</value>
+         <variableId>f3b894fb-d949-466a-a354-975e6b0a1d66</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

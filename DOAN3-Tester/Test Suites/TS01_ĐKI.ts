@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS01_ĐKI</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>f5bfdf41-bc59-4d2e-bc9a-534984b7de5f</testSuiteGuid>
+   <testCaseLink>
+      <guid>1db077e1-b2bc-4594-a571-dc2ae90cf714</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC01_ĐKI</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>b1036bd3-edf1-4c6b-9233-4f91e6b79784</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TC01_ĐKI</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>b1036bd3-edf1-4c6b-9233-4f91e6b79784</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>7d2686b3-6081-43f5-8675-06d55087f2a2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b1036bd3-edf1-4c6b-9233-4f91e6b79784</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>HOTEN</value>
+         <variableId>0d739fbb-e9d1-424d-b778-85dd8ec8f9dd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b1036bd3-edf1-4c6b-9233-4f91e6b79784</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Pass</value>
+         <variableId>a808bfaa-fe12-4fad-b8d9-0ddfc8b3853b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b1036bd3-edf1-4c6b-9233-4f91e6b79784</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Pass01</value>
+         <variableId>2233ca3f-6e12-455c-a09e-861bce01a3e2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b1036bd3-edf1-4c6b-9233-4f91e6b79784</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Result</value>
+         <variableId>a065024e-6e02-4616-8504-0d13144b2413</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

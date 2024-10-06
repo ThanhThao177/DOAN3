@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Lc sn phm_lozad</name>
+   <tag></tag>
+   <elementGuidId>dbe842dc-2c0e-4d08-8c89-d532505bd93f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.img-scale.product-item-218.ga-item > img.lozad</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Dung Dịch Tẩy Tế Bào Chết All Target Skin Renewing Solution Pionin + 12% AHA/BHA/PHA 120ml']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>34607246-f223-4029-b932-c7398664f0ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lozad</value>
+      <webElementGuid>c4211128-edb1-45f8-9a46-f4c165e3d8c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://cdn.happyskin.vn/media/38/dung-dich-tay-te-bao-chet-all-target-skin-renewing-solution-pionin-12-ahabhapha-120ml.jpg</value>
+      <webElementGuid>6e8aa074-c9a6-4474-97db-734cb737e0fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-src</name>
+      <type>Main</type>
+      <value>https://cdn.happyskin.vn/media/38/dung-dich-tay-te-bao-chet-all-target-skin-renewing-solution-pionin-12-ahabhapha-120ml.jpg</value>
+      <webElementGuid>804960bd-f70d-4953-a3ff-bbd26dcdbe50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Dung Dịch Tẩy Tế Bào Chết All Target Skin Renewing Solution Pionin + 12% AHA/BHA/PHA 120ml</value>
+      <webElementGuid>3bb74c56-6f55-47d8-939c-029fae885aea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-loaded</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>34a3ecba-aaa3-48bf-9207-8a267e9664d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;scrolling-down&quot;]/main[1]/section[@class=&quot;product-list-section section&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;product-list ga-container&quot;]/div[@class=&quot;row -mt-6&quot;]/div[@class=&quot;col mt-6 w-1/2 sm:w-1/3 md:w-1/5 lg:w-1/5 xl:w-1/5&quot;]/div[@class=&quot;product-square-item&quot;]/div[@class=&quot;product-image ga-object&quot;]/a[@class=&quot;img-scale product-item-218 ga-item&quot;]/img[@class=&quot;lozad&quot;]</value>
+      <webElementGuid>98538f57-daf6-45fd-bde9-c5044d99e450</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Dung Dịch Tẩy Tế Bào Chết All Target Skin Renewing Solution Pionin + 12% AHA/BHA/PHA 120ml']</value>
+      <webElementGuid>1252d2e8-c66a-426e-9edb-1efb93741fad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/a/img</value>
+      <webElementGuid>a9ad7d3d-f29a-4e3c-b1ce-adb1a5a070d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://cdn.happyskin.vn/media/38/dung-dich-tay-te-bao-chet-all-target-skin-renewing-solution-pionin-12-ahabhapha-120ml.jpg' and @alt = 'Dung Dịch Tẩy Tế Bào Chết All Target Skin Renewing Solution Pionin + 12% AHA/BHA/PHA 120ml']</value>
+      <webElementGuid>e2b9605f-3d31-42f7-b342-532413d98ea3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

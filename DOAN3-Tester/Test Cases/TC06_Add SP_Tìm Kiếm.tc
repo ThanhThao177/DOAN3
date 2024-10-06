@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC06_Add SP_Tìm Kiếm</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>be8ebd9b-6a2a-4c69-915d-967110a39d46</testCaseGuid>
+</TestCaseEntity>

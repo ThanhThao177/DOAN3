@@ -1,0 +1,71 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+
+//import com.kms.katalon.core.webui.elements.ComboBox as ComboBox
+//
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://www.happyskin.vn/')
+
+WebUI.maximizeWindow()
+
+WebUI.delay(5)
+
+WebUI.click(findTestObject('Page_HappySkin.Vn  M Phm Chnh Hng v Clinic _18ea77/img_Xem nhanh_lozad'))
+
+WebUI.click(findTestObject('Object Repository/Page_My Ra Mt Emmi Premium Facial Cleansing_c1d88d/span_Thm vo gi hng'))
+
+WebUI.click(findTestObject('Object Repository/Page_My Ra Mt Emmi Premium Facial Cleansing_c1d88d/span_Xem gi hng  thanh ton'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Thanh ton - HappySkin Vit Nam/input__NewAddressForm.ContactName'), 
+    'thanh')
+
+WebUI.click(findTestObject('Object Repository/Page_Thanh ton - HappySkin Vit Nam/input__NewAddressForm.ContactName'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Thanh ton - HappySkin Vit Nam/input__NewAddressForm.Phone'), '123')
+
+WebUI.click(findTestObject('Object Repository/Page_Thanh ton - HappySkin Vit Nam/input__NewAddressForm.Phone'))
+
+//WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Thanh ton - HappySkin Vit Nam/select_Chn TnhThnh phH Ch MinhH NiAn GiangB_9ddda1'), 
+//  '254', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Thanh ton - HappySkin Vit Nam/select_Chn TnhThnh phH Ch MinhH NiAn GiangB_9ddda1'), 
+    '254', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Thanh ton - HappySkin Vit Nam/select_Chn QunHuynHuyn Ba VHuyn Chng MHuyn _0c3e00'), 
+    '337', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Thanh ton - HappySkin Vit Nam/select_Chn PhngXPhng BiPhng Nht TnPhng Ph T_946e27'), 
+    '1443', true)
+
+WebUI.setText(findTestObject('Object Repository/Page_Thanh ton - HappySkin Vit Nam/input__NewAddressForm.AddressLine1'), 
+    'số nhà 101')
+
+WebUI.click(findTestObject('Object Repository/Page_Thanh ton - HappySkin Vit Nam/input__NewAddressForm.AddressLine1'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Thanh ton - HappySkin Vit Nam/input_Email_NewAddressForm.Email'), 'thao@gmail.com')
+
+WebUI.click(findTestObject('Object Repository/Page_Thanh ton - HappySkin Vit Nam/span_Thanh ton khi nhn hng'))
+
+WebUI.click(findTestObject('Object Repository/Page_Thanh ton - HappySkin Vit Nam/span_718.250'))
+
+WebUI.verifyTextPresent('', false)
+
+//đong trinh duyet
+WebUI.closeBrowser()
+

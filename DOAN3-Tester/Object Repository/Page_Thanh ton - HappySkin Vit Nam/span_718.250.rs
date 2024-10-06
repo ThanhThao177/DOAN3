@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_718.250</name>
+   <tag></tag>
+   <elementGuidId>a50de702-f13d-4e6a-9b6c-b7341f1e4c2d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.payment-total.order-total-value.order-total</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='purchase']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>92317b67-983b-4741-8fca-d0fcb1aff77b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>payment-total order-total-value order-total</value>
+      <webElementGuid>ff55a582-57a8-4d95-8643-f83f5dfe43d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>718.250 ₫</value>
+      <webElementGuid>0e3fbb81-687d-4ab7-8a98-2881d488713f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;purchase&quot;)/span[@class=&quot;payment-total order-total-value order-total&quot;]</value>
+      <webElementGuid>92b07de8-a8d9-425e-9f88-9742ad818304</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='purchase']/span</value>
+      <webElementGuid>61db7af9-fd87-4ce8-b1c2-87af17d9525d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chuyển khoản trực tiếp'])[3]/following::span[1]</value>
+      <webElementGuid>2f0d9946-06af-4b7d-a376-44646e4beb5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(CoD)'])[1]/preceding::span[1]</value>
+      <webElementGuid>be0cc2fb-18ca-4c13-9d42-592d51b3e371</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thanh toán'])[3]/preceding::span[2]</value>
+      <webElementGuid>f412a031-dba0-4b30-b7db-a4f73ca8c3d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button/span</value>
+      <webElementGuid>7ec8e3b1-cbe1-45ba-9277-d0477156b396</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '718.250 ₫' or . = '718.250 ₫')]</value>
+      <webElementGuid>e0e419b3-b79d-4756-8cc2-a736edcc9ac9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

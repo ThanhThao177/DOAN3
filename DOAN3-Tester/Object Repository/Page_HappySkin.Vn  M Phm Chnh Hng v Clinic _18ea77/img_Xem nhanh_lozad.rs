@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Xem nhanh_lozad</name>
+   <tag></tag>
+   <elementGuidId>f75f138f-c2f7-4b69-a5da-1f14942a4a76</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='col mt-7.5 md:w-1/5 lg:w-1/5 xl:w-1/5 2xl:w-1/5']//img[@alt='Máy Rửa Mặt Emmié Premium Facial Cleansing Brush - Đạt Chứng Nhận FDA - Sky Blue']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>7fe068f2-5b9d-4fef-bedd-ca139919f17c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lozad</value>
+      <webElementGuid>4d1f11ac-5b0b-4af5-8b31-9b6443377911</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://cdn.happyskin.vn/media/26/1270-may-rua-mat-emmie-premium-facial-cleansing-brush-dat-chung-nhan-fda-sky-blue.jpg</value>
+      <webElementGuid>34d0c364-62c8-4a5a-a553-027835da2fe5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-src</name>
+      <type>Main</type>
+      <value>https://cdn.happyskin.vn/media/26/1270-may-rua-mat-emmie-premium-facial-cleansing-brush-dat-chung-nhan-fda-sky-blue.jpg</value>
+      <webElementGuid>6a012157-70a1-46e6-a4ba-0277ad8419b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Máy Rửa Mặt Emmié Premium Facial Cleansing Brush - Đạt Chứng Nhận FDA - Sky Blue</value>
+      <webElementGuid>658f3596-3ea2-46b6-b7f6-c4b1b05360ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-loaded</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>26554a18-95c5-4ae4-a97b-b6c608dac2b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;homepage-2 scrolling-down&quot;]/main[1]/section[@class=&quot;home-collection&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;box-product-shadow&quot;]/div[@class=&quot;desktop-only ga-container&quot;]/div[@class=&quot;product-list&quot;]/div[@class=&quot;row -mt-7.5&quot;]/div[@class=&quot;col mt-7.5 md:w-1/5 lg:w-1/5 xl:w-1/5 2xl:w-1/5&quot;]/div[@class=&quot;product-item&quot;]/div[@class=&quot;product-image ga-object&quot;]/a[@class=&quot;img-scale ga-item&quot;]/img[@class=&quot;lozad&quot;]</value>
+      <webElementGuid>26d605e5-8229-4b6e-b02d-2f43ead1f507</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Máy Rửa Mặt Emmié Premium Facial Cleansing Brush - Đạt Chứng Nhận FDA - Sky Blue'])[5]</value>
+      <webElementGuid>dbdd6b3f-d8e0-4eb3-be37-21b462841fff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[3]/div/div/a/img</value>
+      <webElementGuid>646b66ba-86ac-4fa3-95c1-4c3d80b7f629</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://cdn.happyskin.vn/media/26/1270-may-rua-mat-emmie-premium-facial-cleansing-brush-dat-chung-nhan-fda-sky-blue.jpg' and @alt = 'Máy Rửa Mặt Emmié Premium Facial Cleansing Brush - Đạt Chứng Nhận FDA - Sky Blue']</value>
+      <webElementGuid>3f32778e-139c-4fb6-afd4-34a290dbd498</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC08_Xóa hết sp</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2d060e98-5fd9-49af-b33d-1f00cbe7ff7d</testCaseGuid>
+</TestCaseEntity>

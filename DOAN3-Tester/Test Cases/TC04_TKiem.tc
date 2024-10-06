@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04_TKiem</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8e7de309-2f7a-4178-8018-4430a04c0088</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3038c114-059f-4370-95c5-0b09f6238ce6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bc3c05b3-c81d-46b1-8dfa-6e788254c82d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3038c114-059f-4370-95c5-0b09f6238ce6</id>
+      <masked>false</masked>
+      <name>Timkiem</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bc3c05b3-c81d-46b1-8dfa-6e788254c82d</id>
+      <masked>false</masked>
+      <name>Result</name>
+   </variable>
+</TestCaseEntity>
